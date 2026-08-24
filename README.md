@@ -8,8 +8,6 @@
 - Python
 - SQL
 - Git & GitHub
-- Excel
-
 ## 🎯 Goal
 To become a skilled Data Analyst by building real-world projects and continuously improving my technical skills.
 
